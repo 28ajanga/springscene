@@ -80,7 +80,7 @@ t.setheading(t.heading()+72)
 
 t.penup()
 t.goto(50,-180)
-t.color('limegreen')
+t.color('red')
 t.begin_fill()
 t.pendown()
 t.circle(20)
@@ -210,32 +210,6 @@ t.backward(10)
 t.setheading(120)
 t.forward(10)
 t.backward(10)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
